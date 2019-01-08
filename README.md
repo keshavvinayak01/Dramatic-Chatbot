@@ -16,6 +16,7 @@ the datasets used by both of the notebooks is common, however the algorithms are
 
 citations :  
 [Bahdanau et al.2015] : In Proceedings of the International Conference on Learning Representations.
+
 Variational Attention for Seq2Seq models (https://arxiv.org/pdf/1712.08207.pdf)
 
 
